@@ -62,7 +62,28 @@ npm start
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+## 📸 Screenshots
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Patient Page
+![Patient Page](screenshots/patient-page.png)
+
+### Doctor Page
+![Doctor Page](screenshots/doctor-page.png)
+
+### Appointment Page
+![Appointment Page](screenshots/appointment-page.png)
+
+### Excel Import
+![Excel Import](screenshots/excel-import.png)
+
+### PDF Export
+![PDF Export](screenshots/pdf-export.png)
 
 ## 👨‍💻 Author
 
